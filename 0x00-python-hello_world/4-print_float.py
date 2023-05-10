@@ -1,4 +1,4 @@
-#!/bin/bash
-number = 45
+#!/usr/bin/python3
+number = 3.14159
 float_number = float(number)
 print(float_number)
