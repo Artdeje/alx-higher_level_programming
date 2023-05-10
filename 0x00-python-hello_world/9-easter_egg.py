@@ -1,5 +1,2 @@
 #!/usr/bin/python3
-import sys
-str = "and that piece of art is useful - Dora Korpar, 2015-10-19\n"
-sys.stderr.write(str)
-sys.exit(1) #Write in python3
+import this #Import text in the file
