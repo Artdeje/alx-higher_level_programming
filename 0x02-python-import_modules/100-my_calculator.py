@@ -1,5 +1,6 @@
 #!/usr/bin/python3
    #Advanced task 1
+
 if __name__ == "__main__":
     import sys
 
