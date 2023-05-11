@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-   #Advanced task 1
 
 if __name__ == "__main__":
     import sys
@@ -20,9 +19,12 @@ if __name__ == "__main__":
 
     if op == '+':
         print("{} + {} = {}".format(a, b, add(a, b)))
+
     elif op == '-':
         print("{} - {} = {}".format(a, b, sub(a, b)))
+
     elif op == '*':
         print("{} * {} = {}".format(a, b, mul(a, b)))
+
     else:
         print("{} / {} = {}".format(a, b, div(a, b)))
