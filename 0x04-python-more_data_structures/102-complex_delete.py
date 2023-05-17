@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+
 def complex_delete(my_dict, value):
     targets = []
     for key, key_value in my_dict.items():
@@ -6,4 +8,6 @@ def complex_delete(my_dict, value):
             targets.append(key)
     for x in targets:
         del my_dict[x]
+        break
+
     return(my_dict)
