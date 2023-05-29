@@ -3,6 +3,7 @@
 from __future__ import print_function
 import sys
 
+
 """ This function will execute the safety of code's function"""
 
 def safe_function(fct, *args):
