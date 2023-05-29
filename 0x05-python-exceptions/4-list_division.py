@@ -11,6 +11,7 @@ def list_division(my_list_1, my_list_2, list_length):
     Returns:
         A new list of length list_length containing all the divisions of numbers in the list.
     """
+
     new_list = []
     for i in range(0, list_length):
         try:
