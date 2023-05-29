@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def print_elements(lst, num_elements):
     try:
         for i in range(num_elements):
