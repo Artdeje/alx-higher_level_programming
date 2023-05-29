@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 #program that return true or false in exception
 def safe_print_integer(value):
     try:
