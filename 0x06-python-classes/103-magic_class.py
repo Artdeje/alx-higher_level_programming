@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Define a MagicClass matching exactly a bytecode provided by the ALX_AFRICA."""
+"""Class docstring"""
 
 import math
 
