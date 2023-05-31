@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Class square definition for this clas"""
+"""Class square definition."""
 class Square:
-"""Class square definitio pass code"""
+"""Class square representation code"""
     pass
