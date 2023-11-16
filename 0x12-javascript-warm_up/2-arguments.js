@@ -1,8 +1,5 @@
 #!/usr/bin/node
 let args = process.argv.slice(2);
-/*Process which pass arguments
- *and the script name
- */
 if (args.length === 4) {
 	  console.log("No argument");
 } else if (args.length === 0) {
