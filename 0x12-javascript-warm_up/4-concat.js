@@ -1,2 +1,8 @@
 #!/usr/bin/node
-console.log(process.argv[3] + ' is ' + process.argv[4]);
+function DejePrint(arg1, arg2) {
+    console.log(`${arg1} is ${arg2}`);
+}
+
+//Print the output
+DejePrint("Arthur", "Dejemeppe");
+DejePrint(100, 200);
