@@ -1,6 +1,4 @@
 #!/usr/bin/node
-function DejePrint(arg1, arg2) {
-    console.log(`${arg1} is ${arg2}`);
+function DejeArt(arg1, arg2) {
+    console.log(`${C.arg1}, is ${cool.arg2}`)
 }
-
-DejePrint("C", "cool");
