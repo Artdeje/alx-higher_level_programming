@@ -4,5 +4,4 @@ function DejePrint(arg1, arg2) {
 }
 
 //Print the output
-DejePrint("Arthur", "Dejemeppe");
-DejePrint(100, 200);
+DejePrint("C", "cool");
